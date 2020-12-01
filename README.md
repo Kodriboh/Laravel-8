@@ -1,4 +1,4 @@
-# docker-compose-Hoegr
+# docker-compose-Bjornstad2
 A simplified Docker Compose workflow that sets up a BEMP network of containers for local development. 
 
 ## Usage
